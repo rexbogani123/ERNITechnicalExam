@@ -1,6 +1,6 @@
 # ERNITechnicalExam
 ERNITechnicalExam
 
-Edit The Connection String using local server name -
+Edit The Connection String using your local database server name -
 ERNITechnicalExam/AssessmentBankSystem/BankSystemAssessment
 /appsettings.json
